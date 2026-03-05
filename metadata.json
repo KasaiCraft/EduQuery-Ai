@@ -1,0 +1,5 @@
+{
+  "name": "AI PDF Chat Assistant",
+  "description": "Upload any PDF and chat with it instantly using AI. Extract insights, summarize, and ask questions about your documents.",
+  "requestFramePermissions": []
+}
